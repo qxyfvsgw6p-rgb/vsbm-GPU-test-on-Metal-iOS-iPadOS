@@ -19,7 +19,7 @@ struct VertexOut {
 
 vertex VertexOut vertex_main(uint vid [[vertex_id]],
                              constant Uniforms &u [[buffer(0)]]) {
-    // 全屏三角形（无需数组）
+   
     float2 pos;
     if (vid == 0) pos = float2(-1.0, -1.0);
     else if (vid == 1) pos = float2(3.0, -1.0);

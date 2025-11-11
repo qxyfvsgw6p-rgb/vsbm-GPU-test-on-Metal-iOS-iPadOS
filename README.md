@@ -9,5 +9,6 @@ Zooming: Contrary to the usual， <-  -> is zoom out; -> <- is zoom in.
 
 Not tested under IOS26, some darwing/window showing may not working under IOS26!
 
-![Uploading image.png…]()
+![Uploading IMG_0024.PNG…]()
+
 

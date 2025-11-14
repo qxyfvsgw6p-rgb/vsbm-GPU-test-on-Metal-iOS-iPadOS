@@ -1,7 +1,7 @@
 # vsbm-GPU-test-on-Metal-iOS-iPadOS
 vsbm GPU test on Metal/iOS/iPadOS
 
-Waring! performances on low-GPU devices are very bad, may cause springboard crash/not responding on hole device!(even physical buttons)
+Warning! performances on low-GPU devices are very bad, may cause springboard crash/not responding on hole device!(even physical buttons)
 
 Rotating: not moving on itself,needs darging on screen.
 
